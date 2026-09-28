@@ -1,9 +1,9 @@
 const WEDDING_YEAR = 2027;
 const WEDDING_MONTH = 1; // 1월
-const WEDDING_DAY = 1;
+const WEDDING_DAY = 16;
 
 const WEDDING_HOUR = 12;
-const WEDDING_MINUTE = 0;
+const WEDDING_MINUTE = 30;
 const WEDDING_DATE = new Date(
   WEDDING_YEAR,
   WEDDING_MONTH - 1,
